@@ -1,0 +1,3 @@
+excludeInFolderSearch = "{$excludeInFolderSearch,$extraExcludes,node_modules}" 
+excludeInFolderSearch = "{$excludeInFolderSearch,$extraExcludes,build}"
+excludeInFolderSearch = "{$excludeInFolderSearch,$extraExcludes,documentation}" 

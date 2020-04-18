@@ -1,0 +1,26 @@
+{
+  "projects": {
+    "default": "lessons-live",
+    "prod": "lessons-live",
+    "staging": "lessons-live"
+  },
+  "targets": {
+    "lessons-live": {
+      "hosting": {
+        "prod": [
+          "lessons-live"
+        ],
+        "staging": [
+          "lessonslive"
+        ]
+      }
+    },
+    "staging": {
+      "hosting": {
+        "staging": [
+          "lessons"
+        ]
+      }
+    }
+  }
+}
