@@ -5,7 +5,7 @@
 
 Clone this repository:
 
-	git clone git@github.com:joeleckroth/lessons.live.git
+	git clone git@github.com:devcoder111/lessons.live.git
 
 Install dependencies:
 
